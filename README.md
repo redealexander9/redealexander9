@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @redealexander9
 - 👀 I’m interested in Cars and Computers
-- 🌱 I’m currently learning Godot
+- 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Email - rede@redealexander.vip
 
