@@ -1,10 +1,25 @@
-- 👋 Hi, I’m @redealexander9
-- 👀 I’m interested in Cars and Computers
-- 🌱 I’m currently learning Rust
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: Email - rede@redealexander.vip
+# Hi, I’m Rede Alexander 👋
 
-<!---
-redealexander9/redealexander9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m a recent Software Development graduate with a unique perspective from working at **Walmart Online Grocery**, combining operational experience with backend software development skills.  
+
+## 🔭 What I’m Working On
+- Building backend systems with **Java & Spring Boot**
+- Exploring **Ecommerce and fulfillment workflows**
+- Developing projects that simulate **real-world retail challenges** (like my Tote Staging API)
+
+## 🌱 I’m Currently Learning
+- **Spring Boot** for RESTful APIs  
+- Backend system design and testing best practices  
+
+## 👀 Interests
+- Backend development for **Ecommerce or digital fulfillment systems**  
+- Scalable and maintainable software architectures  
+
+## 📫 How to Reach Me
+- Email: [rede@redealexander.vip](mailto:rede@redealexander.vip)  
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/redealexander)  
+
+## 💼 Career Goals
+- Looking for **entry-level software engineering roles**, ideally in **backend systems or digital fulfillment**  
+
+---
