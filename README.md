@@ -17,7 +17,7 @@ I’m a recent Software Development graduate with a unique perspective from work
 
 ## 📫 How to Reach Me
 - Email: [rede@redealexander.vip](mailto:rede@redealexander.vip)  
-- LinkedIn: [Rede Alexander]([https://www.linkedin.com/in/redealexander](https://www.linkedin.com/in/rede-alexander-a14862250/))  
+- LinkedIn: [Rede Alexander](https://www.linkedin.com/in/rede-alexander-a14862250/)  
 
 ## 💼 Career Goals
 - Looking for **entry-level software engineering roles**, ideally in **backend systems or digital fulfillment**  
